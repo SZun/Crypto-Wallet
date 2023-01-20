@@ -31,7 +31,7 @@ from typing import Any, List
 from web3 import Web3
 from crypto_wallet import generate_account, get_balance, send_transaction
 
-w3 = Web3(Web3.HTTPProvider("HTTP://127.0.0.1:7545"))
+w3 = Web3(Web3.HTTPProvider("HTTP://127.0.0.1:8545"))
 ################################################################################
 # Step 1:
 # Import Ethereum Transaction Functions into the KryptoJobs2Go Application
