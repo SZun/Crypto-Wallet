@@ -6,7 +6,7 @@ You’re a fintech engineer who’s working at one of the five largest banks in 
 
 ## The Application
 
-<!--Below is an image of the application in use. There is a form to record and submit the `Sender`, `Reciever` and `Amount` of the cryptocurrency. Below this we see a public ledger that along with the Genesis block, has recorded several other blocks for transactions. Below the ledger is a button to validate the chain. Once clicked, it will display `True` or `False` depending on the validity of the chain. In the image we see `True` in green text below the button, indicating that the chain is valid. On the left side of the application we see a slider to select the difficulty of tha chain's hash. Below this we have a dropdown to select a specific block from the chain ledger. And below that in green text we see the values of the block.-->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Landing Page](./assets/images/landing.png)
 
@@ -14,17 +14,22 @@ You’re a fintech engineer who’s working at one of the five largest banks in 
 
 ### Making Transaction
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 ![App In Use](./assets/images/app.png)
 
 ### Transaction on Ganache
 
-Sender
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ![Sender](./assets/images/sender.png)
-Transaction History
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ![Transaction History](./assets/images/transaction_history.png)
-Transaction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ![Transaction](./assets/images/transaction.png)
-Reciever
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ![Reciever](./assets/images/reciever.png)
 
 ## Getting Started
@@ -67,6 +72,10 @@ $ git clone git@github.com:SZun/Cryptocurrency-Wallet.git
 $ cd PyChain-Ledger
 ```
 
+### Open Ganache Workspace
+
+![Ganache Workspace](./assets/images/open_ganache.png)
+
 ### Run The Application
 ```
 $ streamlit run krypto_jobs.py
@@ -76,13 +85,18 @@ $ streamlit run krypto_jobs.py
 [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3713/)
 [![Python](https://img.shields.io/badge/Python-3.7.13-blue)](https://www.python.org/downloads/release/python-3713/) - *Programming Language* <br>
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/) - *Web app generation tool* <br>
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/#) - *Data analysis library*
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/#) - *Data analysis library* <br>
+[Requests](https://requests.readthedocs.io/en/latest/) - *HTTP Library* <br>
+[Python-Dotenv](https://github.com/theskumar/python-dotenv) - *Environment variable helper library* <br>
+[BIP 44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki) - *Python implementation of bitcoin wallet standard* <br>
+[Web3](https://web3py.readthedocs.io/en/v5/) - *A Python library for interacting with Ethereum* <br>
 
 ### Python Libraries
 - [dataclasses](https://docs.python.org/3/library/dataclasses.html)
-- [datetime](https://docs.python.org/3/library/datetime.html)
-- [hashlib](https://docs.python.org/3/library/hashlib.html)
+- [os](https://docs.python.org/3/library/os.html)
 - [typing](https://docs.python.org/3/library/typing.html)
+
+
 
 ## Contributors
 - **Sam G. Zun** - [LinkedIn](https://www.linkedin.com/in/szun/) | [GitHub](https://github.com/SZun)
