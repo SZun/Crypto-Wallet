@@ -15,28 +15,28 @@ candidate_database = {
         "0x7138a64247728bC43F01FeF9c8C4025D1db51b61",
         "4.3",
         0.20,
-        "Images/lane.jpeg",
+        "assets/images/lane.jpeg",
     ],
     "Ash": [
         "Ash",
         "0xdcAe3d41451ddA18847Ed5c9CB61dDCe9185145D",
         "5.0",
         0.33,
-        "Images/ash.jpeg",
+        "assets/images/ash.jpeg",
     ],
     "Jo": [
         "Jo",
         "0xDb5A73E4cF0a73b3B5127731332c1F24bc8db8Ad",
         "4.7",
         0.19,
-        "Images/jo.jpeg",
+        "assets/images/jo.jpeg",
     ],
     "Kendall": [
         "Kendall",
         "0xf5Ca4d76A3d344dbdD90C5CD13E67e5B5DeCcF4B",
         "4.1",
         0.16,
-        "Images/kendall.jpeg",
+        "assets/images/kendall.jpeg",
     ],
 }
 
