@@ -6,30 +6,23 @@ You’re a fintech engineer who’s working at one of the five largest banks in 
 
 ## The Application
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here we can see the application up and running. On the right-hand side we can see the FinTech Professionals as well as their ethereum address and hourly rate in ethereum. On the left-hand side we can see our ethereum account address as well as our balance in ETH. Below this is a form to select the FinTech Professional by name, as well as how many hours we would like ot hire them for. Below the form we can see their name, hourly rate and ethereum address, as well as the total wage in ETH which is calculate by multiplying the hours by the hourly rate. Below this is a transaction button that when clicked transfers ETH from the users address to that of the FinTech professional and outputs a validated hash from the transaction.
 
 ![Landing Page](./assets/images/landing.png)
-
-## Transaction
-
-### Making Transaction
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ![App In Use](./assets/images/app.png)
 
-### Transaction on Ganache
+## Transaction on Ganache
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here we can the senders address, their balance in ETH, the amount of transactions they've done as well as their index location.
 ![Sender](./assets/images/sender.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here we can see the transaction history which shows the transaction hash, the to and from addresses, the gas limit and value that was sent in the transactions.
 ![Transaction History](./assets/images/transaction_history.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+On closer inspection of the latest transaction we can see the transaction hash, teh to and from address, the value in ETH, the gas price, the gas limit, the mined block and tx data.
 ![Transaction](./assets/images/transaction.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here we can the revievers address, their balance in ETH, the amount of transactions they've done as well as their index location.
 ![Reciever](./assets/images/reciever.png)
 
 ## Getting Started
