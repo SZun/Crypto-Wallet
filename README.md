@@ -62,7 +62,7 @@ $ pip install --upgrade protobuf
 ### Clone Repository
 ```
 $ git clone git@github.com:SZun/Cryptocurrency-Wallet.git
-$ cd PyChain-Ledger
+$ cd Cryptocurrency-Wallet
 ```
 
 ### Open Ganache Workspace
